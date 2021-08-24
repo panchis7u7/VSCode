@@ -1,0 +1,65 @@
+{
+    "workbench.colorTheme": "Community Material Theme Ocean High Contrast",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "redhat.telemetry.enabled": false,
+    // Set the font
+    "editor.fontFamily": "'JetBrains Mono'",
+    // Turn on font ligatures
+    "editor.fontLigatures": true,
+    // Set letter spacing
+    "editor.letterSpacing": 0.4,
+    // Enable smooth scrolling in the editor
+    "editor.smoothScrolling": true,
+    "terminal.integrated.fontFamily": "monospace",
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "[dart]": {
+        "editor.formatOnSave": false,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "editor.tokenColorCustomizations": {
+        "comments": "#e6d543de",
+        "variables": "#00ffea",
+        "numbers": "#FFFFFF",
+        "[Material Theme Darker]": {}
+    },
+    "dart.flutterTestLogFile": null,
+    "dart.openTestView": [
+
+        "testRunStart"
+    ],
+    "workbench.colorCustomizations": {
+        "[Material Theme Darker]": {},
+        "editor.foreground": "#ffffff",
+        "sideBar.foreground": "#ffffff",
+        "activityBar.foreground": "#ffffff",
+        "statusBar.foreground": "#ffffff",
+        "editorLineNumber.foreground": "#ffffff",
+        "panelTitle.activeForeground": "#ff0000",
+        "panelTitle.inactiveForeground": "#ffffff",
+        "tab.activeForeground": "#ffffff",
+        "tab.activeBackground": "#000000",
+        "tab.inactiveForeground": "#ffffff"
+    },
+    "window.zoomLevel": 1,
+    "editor.mouseWheelZoom": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.codeActionsOnSave": null
+}
